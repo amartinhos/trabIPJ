@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <enumeration id="1" language="java" name="geral.Utilizador.User" project="FinalProject5" 
+    file="/FinalProject5/src/geral/Utilizador.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="147" x="470" y="439"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="2" language="java" name="geral.Utilizador" project="FinalProject5" 
+    file="/FinalProject5/src/geral/Utilizador.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="194" x="470" y="192"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="geral.Revista" project="FinalProject5" 
+    file="/FinalProject5/src/geral/Revista.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="504" y="306"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="geral.Livro" project="FinalProject5" file="/FinalProject5/src/geral/Livro.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="346" x="20" y="233"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="5" language="java" name="geral.Requisitavel" project="FinalProject5" 
+    file="/FinalProject5/src/geral/Requisitavel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="225" x="424" y="164"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <enumeration id="6" language="java" name="geral.Periodico.Periodicidade" project="FinalProject5" 
+    file="/FinalProject5/src/geral/Periodico.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="87" y="287"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="7" language="java" name="geral.Periodico" project="FinalProject5" 
+    file="/FinalProject5/src/geral/Periodico.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="162" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="8">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <nesting id="9">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <association id="10">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="11" name="periodicidade"/>      
+      <multiplicity id="12" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="13">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="14" name="tipo"/>      
+      <multiplicity id="15" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="16">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

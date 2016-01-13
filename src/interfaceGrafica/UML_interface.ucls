@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="interfaceGrafica.Login" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/Login.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="141" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="interfaceGrafica.EscolhaUserTeste" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/EscolhaUserTeste.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="215" x="1183" y="1080"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="interfaceGrafica.PanelLeitor2" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/PanelLeitor2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1053" y="992"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="interfaceGrafica.EscolhaPubTeste" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/EscolhaPubTeste.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="218" x="1438" y="1080"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="interfaceGrafica.Frame" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/Frame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="210" x="1347" y="-170"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="interfaceGrafica.NewUser" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/NewUser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="423" y="456"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="interfaceGrafica.GetLists" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/GetLists.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="239" width="415" x="620" y="88"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="interfaceGrafica.NewPub" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/NewPub.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="219" x="1088" y="-170"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="interfaceGrafica.PanelChefe" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/PanelChefe.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="209" x="1189" y="689"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="10" language="java" name="interfaceGrafica.EscolhaPubTeste.TipoAcao" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/EscolhaPubTeste.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1720" y="1653"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="11" language="java" name="interfaceGrafica.PanelColaborador" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/PanelColaborador.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="212" x="1438" y="689"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="interfaceGrafica.AddJornal" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/AddJornal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1699" y="222"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="interfaceGrafica.PanelBase" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/PanelBase.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1345" y="1801"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="interfaceGrafica.EmpExpirados" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/EmpExpirados.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="148" x="995" y="1080"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="interfaceGrafica.Frame.MyShutdownHook" project="FinalProject5" 
+    file="/FinalProject5/src/interfaceGrafica/Frame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="126" x="1690" y="689"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="geral.Biblioteca" project="FinalProject5" 
+    file="/FinalProject5/src/geral/Biblioteca.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="527" y="1613"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="17">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="18" name="tipo"/>      
+      <multiplicity id="19" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="20">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <association id="21">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="22" name="biblioteca"/>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="25" name="panelBase"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="28" name="g"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="31" name="biblioteca"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="34" name="escolhaPub"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="37" name="panelBase"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="40" name="escolhaUser"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="43" name="biblioteca"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="46" name="biblioteca"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="49" name="biblioteca"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="52" name="panel1"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="55" name="biblioteca"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="58" name="panel2"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="61" name="b"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="64" name="biblioteca"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="67" name="panelBase"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="70" name="biblioteca"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="72">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <association id="73">    
+    <bendpoint x="964" y="1080"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="74" name="panelBase"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="76">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="77" name="panel"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
