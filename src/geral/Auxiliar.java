@@ -12,7 +12,7 @@ public class Auxiliar {
 		
 		
 		String estat_obra = pub.titulo+","+pub.dataPublicacao.toString("dd/MM/yyyy");
-		
+		// testando git
 		if (emprestimos.size()!=0){
 			int meses[]=new int[12];
 			int max=0;
